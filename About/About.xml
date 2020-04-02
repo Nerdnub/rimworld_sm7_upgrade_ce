@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Android Tiers SM7 Overhaul CE Patch</name>
+  <author>joe_the_tech</author>
+  <packageId>joethetech.sm7overhaulce</packageId>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  	<loadAfter>
+		<li>Atlas.AndroidTiers</li>
+		<li>CETeam.CombatExtended</li>
+	</loadAfter>
+  <description>
+  version 1.0
+
+A compatability patch for Combat Extended, including new ammo types: 20x102mm High Explosive, Armor Piercing, and Depleted Uranium.
+  </description>
+</ModMetaData>
